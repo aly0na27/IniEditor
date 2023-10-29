@@ -5,7 +5,7 @@
 #include <QDir>
 #include <QFileDialog>
 #include <QDebug>
-#include "bebebe/IniFile.h"
+#include "src/IniFile.h"
 #include <QModelIndex>
 #include <QInputDialog>
 #include <QMessageBox>

@@ -11,11 +11,11 @@ CONFIG += c++11
 SOURCES += \
     main.cpp \
     mainwindow.cpp \
-    bebebe/IniFile.cpp
+    src/IniFile.cpp
 
 HEADERS += \
     mainwindow.h \
-    bebebe/IniFile.h
+    src/IniFile.h
 
 FORMS += \
     mainwindow.ui

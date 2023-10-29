@@ -1,5 +1,5 @@
 #include "mainwindow.h"
-#include "bebebe/IniFile.h"
+#include "src/IniFile.h"
 #include <QApplication>
 
 int main(int argc, char *argv[])
