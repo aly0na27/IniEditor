@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>img/259-icon-b339a64f83e87ca8426bfb1a6282d505.png</file>
+        <file>img/2328337.32.png</file>
+        <file>img/save2.png</file>
+        <file>img/icons8-save-file-64.png</file>
+        <file>img/icons8-active-directory-50.png</file>
+        <file>img/icons8-opened-folder-50.png</file>
+        <file>img/icons8-check-mark-48.png</file>
+        <file>img/icons8-cross-mark-48.png</file>
+        <file>img/icons8-add-file-30.png</file>
+        <file>img/icons8-tick-box-16.png</file>
+        <file>img/icons8-plus-48.png</file>
+    </qresource>
+</RCC>
